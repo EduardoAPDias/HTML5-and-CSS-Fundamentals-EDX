@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    font-family: "Ubuntu", "Verdana", "Arial", sans-serif;
+}
+
+th {
+    background-color: #5b9bd5;
+}
+
+td {
+    background-color: #d2deef;
+}
