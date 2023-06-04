@@ -21,6 +21,11 @@ body { margin:0px; }
 .fc footer {
   margin:0px;
   flex: 0 1 100vw; 
+  max-width: 5vh;
+}
+
+.fc aside, .fc main, .fc section {
+  
 }
 
 /* ensure flex-container is always at least as tall as the viewport. 

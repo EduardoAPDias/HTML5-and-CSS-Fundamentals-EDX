@@ -1,0 +1,60 @@
+nav {
+    width: 20em;
+    background: lightgoldenrodyellow;
+    position: fixed;
+    top: 4rem;
+    opacity: .8;
+  }
+
+  nav:hover{
+    opacity: 1;
+  }
+
+  img {
+    width: 500px;
+    border: 5px solid red;
+    padding: 5px;
+  }
+
+  article {
+    margin-left: 40px;
+    min-width: 30rem;
+    max-width: 50rem;
+    margin: auto;
+    margin-top: 4rem;
+  }
+
+  h1 {
+    text-align: center;
+    color: cornflowerblue;
+    margin: 0px;
+    position: fixed;
+    background: lightgoldenrodyellow;
+    width: 100%;
+    top: 0;
+  }
+
+  body{
+    margin: 0px;
+    font-size: 120%;
+  }
+
+  nav ul{
+    padding-left: 25px;
+  }
+
+  table, th, td {
+    padding: 10px; 
+    text-align: left;
+    }
+  table{
+    
+    font-family: "Ubuntu", "Verdana", "Arial", sans-serif;
+    font-size: small;
+  }
+  th{
+    background-color: #eb9f25;
+  }
+  td{
+    background-color: #eed843;
+  }
