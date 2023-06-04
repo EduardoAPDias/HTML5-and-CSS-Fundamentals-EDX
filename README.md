@@ -34,10 +34,10 @@ This course is licensed under the MIT License.
 ## Resources
 Here are some additional resources that may be helpful:
 
-[Mozilla Developer Network (MDN) - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/ "HTML: HyperText Markup Language")
-[Mozilla Developer Network (MDN) - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/ "CSS: Cascading Style Sheets")
-[W3Schools - HTML Tutorial](https://www.w3schools.com/html/ "HTML Tutorial")
-[W3Schools - CSS Tutorial](https://www.w3schools.com/css/ "CSS Tutorial")
+*[Mozilla Developer Network (MDN) - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/ "HTML: HyperText Markup Language")
+*[Mozilla Developer Network (MDN) - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/ "CSS: Cascading Style Sheets")
+*[W3Schools - HTML Tutorial](https://www.w3schools.com/html/ "HTML Tutorial")
+*[W3Schools - CSS Tutorial](https://www.w3schools.com/css/ "CSS Tutorial")
 
 Acknowledgments
 I would like to express my gratitude to the instructors and team at EDX for providing such a comprehensive and well-structured course. Their efforts have greatly contributed to my understanding of HTML5 and CSS fundamentals.
