@@ -12,7 +12,7 @@ In this module, you will create your first web page using HTML5. You will learn 
 ### Module 2: HTML5 Attributes, Images, and Links
 Module 2 focuses on HTML5 attributes and introduces you to adding images and links to your web pages. You will learn how to enhance the visual appeal of your pages by incorporating images and creating clickable links.
 
-###Module 3: Introduction to CSS
+### Module 3: Introduction to CSS
 In Module 3, you will be introduced to CSS (Cascading Style Sheets), which is used to style HTML. You will learn the syntax of CSS, how to include it in your web pages, and work with basic properties and concepts. This module will lay the foundation for styling your web pages.
 
 ### Module 4: Fixing Web Page Errors
@@ -34,10 +34,10 @@ This course is licensed under the MIT License.
 ## Resources
 Here are some additional resources that may be helpful:
 
-[Mozilla Developer Network (MDN) - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/"HTML: HyperText Markup Language")
-[Mozilla Developer Network (MDN) - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/"CSS: Cascading Style Sheets")
-[W3Schools - HTML Tutorial](https://www.w3schools.com/html/"HTML Tutorial")
-[W3Schools - CSS Tutorial](https://www.w3schools.com/css/"CSS Tutorial")
+[Mozilla Developer Network (MDN) - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/ "HTML: HyperText Markup Language")
+[Mozilla Developer Network (MDN) - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/ "CSS: Cascading Style Sheets")
+[W3Schools - HTML Tutorial](https://www.w3schools.com/html/ "HTML Tutorial")
+[W3Schools - CSS Tutorial](https://www.w3schools.com/css/ "CSS Tutorial")
 
 Acknowledgments
 I would like to express my gratitude to the instructors and team at EDX for providing such a comprehensive and well-structured course. Their efforts have greatly contributed to my understanding of HTML5 and CSS fundamentals.
