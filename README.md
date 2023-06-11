@@ -39,7 +39,7 @@ Here are some additional resources that may be helpful:
 * [W3Schools - HTML Tutorial](https://www.w3schools.com/html/ "HTML Tutorial")
 * [W3Schools - CSS Tutorial](https://www.w3schools.com/css/ "CSS Tutorial")
 
-Acknowledgments
+## Acknowledgments
 I would like to express my gratitude to the instructors and team at EDX for providing such a comprehensive and well-structured course. Their efforts have greatly contributed to my understanding of HTML5 and CSS fundamentals.
 
 Eduardo Dias
